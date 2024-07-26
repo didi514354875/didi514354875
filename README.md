@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=didi514354875&show_icons=true&theme=dark&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=didi514354875&layout=compact&theme=tokyonight)
 
-![Snake!](https://raw.githubusercontent.com/didi514354875/didi514354875/main/assets/github-contribution-grid-snake.svg)
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/didi514354875/didi514354875/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/didi514354875/didi514354875/output/github-contribution-grid-snake.svg">
