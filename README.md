@@ -1,24 +1,27 @@
-## Hi there 👋
+- 👋 Hi, I'm @didi514354875
 
-<!--
-**didi514354875/didi514354875** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## GitHub Stats
 
-Here are some ideas to get you started:
+<div align="center">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-![Github Stats](https://github-readme-stats.vercel.app/api?username=didi514354875&show_icons=true&theme=dark&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=didi514354875&layout=compact&theme=tokyonight)
+  <!-- Snake -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/didi514354875/didi514354875/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/didi514354875/didi514354875/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/didi514354875/didi514354875/output/github-contribution-grid-snake.svg" width="850">
+  </picture>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/didi514354875/didi514354875/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/didi514354875/didi514354875/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/didi514354875/didi514354875/output/github-contribution-grid-snake.svg">
-</picture>
+  <br><br>
+
+  <!-- Stats -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=didi514354875&show_icons=true&theme=nord&count_private=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=didi514354875&show_icons=true&theme=default&count_private=true">
+    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=didi514354875&show_icons=true&theme=nord&count_private=true" height="195">
+  </picture>&nbsp;&nbsp;&nbsp;&nbsp;<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=didi514354875&layout=compact&theme=nord">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=didi514354875&layout=compact&theme=default">
+    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=didi514354875&layout=compact&theme=nord" height="195">
+  </picture>
+
+</div>
