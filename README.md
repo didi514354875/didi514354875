@@ -13,9 +13,15 @@
 
   <br><br>
 
-  <!-- Stats -->
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=didi514354875&show_icons=true&theme=nord&count_private=true)
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=didi514354875&layout=compact&theme=nord)
+  <!-- Stats + Top Languages -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/didi514354875/didi514354875/stats-output/stats-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/didi514354875/didi514354875/stats-output/stats-light.svg">
+    <img alt="GitHub Stats" src="https://raw.githubusercontent.com/didi514354875/didi514354875/stats-output/stats-light.svg" height="195">
+  </picture>&nbsp;&nbsp;&nbsp;&nbsp;<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/didi514354875/didi514354875/stats-output/top-langs-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/didi514354875/didi514354875/stats-output/top-langs-light.svg">
+    <img alt="Top Languages" src="https://raw.githubusercontent.com/didi514354875/didi514354875/stats-output/top-langs-light.svg" height="195">
+  </picture>
 
 </div>
