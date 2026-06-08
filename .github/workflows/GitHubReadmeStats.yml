@@ -24,7 +24,7 @@ jobs:
 
 # ==================== 浅色版本 ====================
       - name: Generate Light Stats Card
-        uses: readme-tools/github-readme-stats-action@v1
+        uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
           options: username=${{ github.repository_owner }}&show_icons=true&theme=default
@@ -32,7 +32,7 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Generate Light Top Languages Card
-        uses: readme-tools/github-readme-stats-action@v1
+        uses: stats-organization/github-readme-stats-action@v2
         with:
           card: top-langs
           options: username=${{ github.repository_owner }}&layout=donut&langs_count=8&theme=default&show_icons=true
@@ -41,14 +41,14 @@ jobs:
 
       # ==================== 深色版本 ====================
       - name: Generate Dark Stats Card
-        uses: readme-tools/github-readme-stats-action@v1
+        uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
           options: username=${{ github.repository_owner }}&show_icons=true&theme=github_dark
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Generate Dark Top Languages Card
-        uses: readme-tools/github-readme-stats-action@v1
+        uses: stats-organization/github-readme-stats-action@v2
         with:
           card: top-langs
           options: username=${{ github.repository_owner }}&layout=donut&langs_count=8&theme=github_dark&show_icons=true
