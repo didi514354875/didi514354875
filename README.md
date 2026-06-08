@@ -20,7 +20,7 @@
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/didi514354875/didi514354875/stats-output/stats-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/didi514354875/didi514354875/stats-output/stats-light.svg">
     <img alt="GitHub Stats" src="https://raw.githubusercontent.com/didi514354875/didi514354875/stats-output/stats-light.svg" height="195">
-  </picture>&nbsp;&nbsp;&nbsp;&nbsp;<picture>
+  </picture>&nbsp;&nbsp;<picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/didi514354875/didi514354875/stats-output/top-langs-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/didi514354875/didi514354875/stats-output/top-langs-light.svg">
     <img alt="Top Languages" src="https://raw.githubusercontent.com/didi514354875/didi514354875/stats-output/top-langs-light.svg" height="195">
